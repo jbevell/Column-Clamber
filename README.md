@@ -4,9 +4,7 @@
 
 <table>
 	<tr>
-      <td><a href=https://doctorsquawk.itch.io/column-clamber>
-      	<img src="MainScreen.png" alt="Screenshot of initial game window"/>
-        </a></td>
+      <td><img src="MainScreen.png" alt="Screenshot of initial game window"/></td>
       <td><img src="MidJump.png" alt="Screenshot of player mid-jump"/></td>
       <td><img src="Portals.png" alt="Screenshot of some portals"/></td>
     </tr>
