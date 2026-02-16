@@ -1,6 +1,6 @@
 <h1>Column Clamber</h1>
 
-<p align=center>A game-jam game made for Godot Wild Jam #73</p>
+<p align="center">A game-jam game made for Godot Wild Jam #73</p>
 
 <table>
 	<tr>
