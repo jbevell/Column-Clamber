@@ -1,10 +1,12 @@
 <h1>Column Clamber</h1>
 
-<p align="center">
-	<img src="MainScreen.png" alt="Screenshot of initial game window" height=640 width=360/>
-	<img src="MidJump.png" alt="Screenshot of player mid-jump" height=640 width=360/>
-	<img src="Portals.png" alt="Screenshot of some portals" height=640 width=360/>
-</p>
+<table>
+	<tr>
+		<td><img src="MainScreen.png" alt="Screenshot of initial game window" height=640 width=360/></td>
+		<td><img src="MidJump.png" alt="Screenshot of player mid-jump" height=640 width=360/></td>
+		<td><img src="Portals.png" alt="Screenshot of some portals" height=640 width=360/></td>
+	</tr>
+</table>
 <p align="center">A game-jam game made for Godot Wild Jam #73</p>
 
 <h3>Summary</h3>
