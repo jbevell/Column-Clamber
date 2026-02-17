@@ -1,6 +1,6 @@
 <h1>Column Clamber</h1>
 
-<p>
+<p align="center">
 	<img src="MainScreen.png" alt="Screenshot of initial game window" height=640 width=360/>
 	<img src="MidJump.png" alt="Screenshot of player mid-jump" height=640 width=360/>
 	<img src="Portals.png" alt="Screenshot of some portals" height=640 width=360/>
