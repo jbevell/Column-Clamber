@@ -23,6 +23,8 @@
 </ul>
 
 <h3>Development Notes</h3>
+<p>If you'd like to watch the full jam process, <a href="https://www.youtube.com/playlist?list=PLB3nBZNJyn2FahdGnqH3H5Tym2FhZFRJo">I streamed and recorded the whole thing!</a></p>
+
 <h4><i>About the Jam</i></h4>
 <p>&emsp;Godot Wild Jam #73's main theme was "Tower". We were required to implement this theme and were given three optional themes or design elements to choose from called Wildcards. I ended up including "Warp Speed"; "Include a teleportation and/or fast travel mechanic". We were given nine days to design, develop, test, and publish our game.</p>
 
